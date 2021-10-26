@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dinopedia</string>
+    <string name="dinos_name">Nama Dinosaurus</string>
+    <string name="detail">Keterangan</string>
+    <string name="profile">Profile</string>
+    <string name="fullname">Muhammad Syukron Abdillah</string>
+    <string name="email">muhammadsyukronabdillah@gmail.com</string>
+</resources>
